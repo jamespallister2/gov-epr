@@ -13,6 +13,7 @@
     "govuk-prototype-kit": "13.16.2",
     "hmrc-frontend": "6.47.0",
     "home-office-kit": "^1.2.0",
-    "jquery": "3.7.1"
+    "jquery": "^3.7.1",
+    "nunjucks": "^3.2.4"
   }
 }
